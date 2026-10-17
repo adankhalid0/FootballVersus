@@ -93,12 +93,6 @@ streamlit run app.py
 - Implement automated testing and GitHub Actions
 - Deploy the application online
 
-## 👨‍💻 Author
-
-**Khalid Adan**
-
-GitHub: [@adankhalid0](https://github.com/adankhalid0)
-
 ---
 
 *Built with Python, Streamlit, and a passion for football.*
