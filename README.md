@@ -1,5 +1,7 @@
 # ⚽ FootballVersus
 
+[![CI](https://github.com/adankhalid0/FootballVersus/actions/workflows/ci.yml/badge.svg)](https://github.com/adankhalid0/FootballVersus/actions/workflows/ci.yml)
+
 **FootballVersus** is an interactive football player comparison application built with Python and Streamlit.
 
 The application uses real football statistics from API-Football to compare players through visual dashboards, statistics tables, and interactive charts.
