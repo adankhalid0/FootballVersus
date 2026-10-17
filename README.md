@@ -45,6 +45,8 @@ The application currently uses league statistics from the **2023/24 season**.
 
 Available players include Vinícius Júnior, Kylian Mbappé, Jude Bellingham, Lamine Yamal, Erling Haaland, and Pedri.
 
+The user interface is in Norwegian.
+
 ## ⚙️ Installation
 
 Clone the repository:
@@ -69,7 +71,7 @@ source .venv/Scripts/activate
 Install dependencies:
 
 ```bash
-pip install streamlit requests pandas altair
+pip install -r requirements.txt
 ```
 
 Create `.streamlit/secrets.toml` and configure your API-Football key:
@@ -90,7 +92,7 @@ streamlit run app.py
 
 - Support more players and leagues
 - Add more advanced statistics
-- Implement automated testing and GitHub Actions
+- Add unit tests for the statistics logic
 - Deploy the application online
 
 ---
