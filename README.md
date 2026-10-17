@@ -20,6 +20,12 @@ The application uses real football statistics from API-Football to compare playe
 
 ![FootballVersus Comparison Chart](screenshots/stats%202.png)
 
+### 🔍 Player Selection
+
+![Select a Real Madrid player](screenshots/velg-realmadrid.png)
+
+![Select an opponent](screenshots/velg-motstander.png)
+
 ## 🚀 Features
 
 - Compare football players side by side
